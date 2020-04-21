@@ -1,1 +1,2 @@
 Vytvorenie WWW Stranky verzia2
+Webovy portal s pouzitim CodeIgniter PHP Frameworku a HTML
