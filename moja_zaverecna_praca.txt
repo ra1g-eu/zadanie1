@@ -1,2 +1,3 @@
 Vytvorenie WWW Stranky verzia2
 Webovy portal s pouzitim CodeIgniter PHP Frameworku a HTML
+Datum obhajoby: 1/1/2021
